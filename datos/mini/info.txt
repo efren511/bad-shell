@@ -1,0 +1,4 @@
+Es una Shell con  una visualización de color oscuro,
+ideal para subir archivos ya sea con fines maliciosos,
+también es excelente para ejecutar comandos del
+sistema local del servidor.

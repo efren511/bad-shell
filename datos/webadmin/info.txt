@@ -1,0 +1,6 @@
+Es una Shell con  una visualización muy
+sencilla ideal para no levantar sospechas,
+es muy recomendable! además es ideal para
+alterar sitios web y moverse a través de
+los directorios del servidor con posibilidad
+de editar archivos.
