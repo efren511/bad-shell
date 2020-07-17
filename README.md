@@ -2,7 +2,7 @@
 Shells en PHP
 
 <p align="center"><a href="https://github.com/efren511/" target="_blank">
-    <img src="https://github.com/efren511/bad-buy/blob/master/logo.png">
+    <img src="https://github.com/efren511/bad-shell/blob/master/logo.png">
 </a></p>
 
 <h1>By Queen Hack</h1>
@@ -50,3 +50,7 @@ Errores
 
 * Recuerda que puedes contactarte con cualquiera de nosotros en caso de
   necesitar apoyo en cuando algún error al ejecutar la aplicación
+
+  <p align="center"><a href="https://github.com/efren511/" target="_blank">
+      <img src="https://github.com/efren511/bad-shell/blob/master/logo2.png">
+  </a></p>
