@@ -10,7 +10,7 @@ Shells en PHP
 Bad Shell es un programa el cual contien algunas shells de PHP y
 alguna información relevante de la misma, estas shells tienen el
 propocito de administrar el servidor, estas unicamente son con
-propocitos educativos.
+propósitos educativos.
 
 Instalación
 ------------
